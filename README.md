@@ -1,2 +1,2 @@
 # Malom
-Prograozás alapjai 3 nagyházi feladat. Malon játék megvalósítása
+Programozás alapjai 3 nagyházi feladat. Malom játék megvalósítása.
