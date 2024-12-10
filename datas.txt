@@ -1,0 +1,5 @@
+Sanyi,11
+Peti,7
+Juli,5
+Feri,9
+Jani,1

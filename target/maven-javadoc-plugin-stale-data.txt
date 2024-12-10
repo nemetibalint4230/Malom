@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/3.felev/prog3/NHF_malom/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/3.felev/prog3/NHF_malom/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'my-app 1.0-SNAPSHOT API'
+com.mycompany.app.gamecontroll
+com.mycompany.app.gameplay
+com.mycompany.app.graphics
+C:\3.felev\prog3\NHF_malom\src\main\java = 1732554101348
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\allclasses-index.html = 1732611703719
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\allpackages-index.html = 1732611703723
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\element-list = 1732611703487
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\help-doc.html = 1732611703790
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\index-all.html = 1732611703775
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\index.html = 1732611703693
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\member-search-index.js = 1732611703745
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\module-search-index.js = 1732611703728
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\overview-summary.html = 1732611703782
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\overview-tree.html = 1732611703681
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\package-search-index.js = 1732611703728
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\search.html = 1732611703778
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\tag-search-index.js = 1732611703751
+C:\3.felev\prog3\NHF_malom\target\reports\apidocs\type-search-index.js = 1732611703728
